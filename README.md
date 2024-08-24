@@ -2,7 +2,7 @@
 
 ---
 ### Description
-This is the final project for the Advanced Data Science with IBM. I used PyTorch to build vision transformer models for plant disease detection.
+This is the final project for the Advanced Data Science with IBM course. I utilized PyTorch to build Vision Transformer models for detecting plant diseases. The project focused on applying advanced deep learning techniques to improve the accuracy and efficiency of disease identification in plants.
 
 ---
 ### Built With
@@ -10,8 +10,8 @@ This is the final project for the Advanced Data Science with IBM. I used PyTorch
 - Kaggle platform
 - Python 
 - Scikit-learn
-- matplotlib
-- seaborn
+- Matplotlib
+- Seaborn
 - PyTorch
 - timm
 - PIL
